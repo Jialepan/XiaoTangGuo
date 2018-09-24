@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to XiaoTangGuo Home
 
 You can use the [editor on GitHub](https://github.com/Jialepan/XiaoTangGuo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
